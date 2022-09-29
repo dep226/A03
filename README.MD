@@ -1,10 +1,11 @@
 PART 1 
 Create a tutorial on how to use GitHub
 
-For starters, this tutorial isn't that hard, like the professor for this class was saying
-all you got to do is wrap your head around it and if you must, go to office hours. At least thats what i did.
+First and foremost, this tutorial should fairly get you familiar with how to use Webstorm and Github together.
+Honestly, i used office hours for assingment because i had some trouble getting started. I utilized the professors office hours and i'm glad i did because
+it was worth it. I actually learned how to utilize Webstorm and hoe to commit and push through Webstorm.
 
-First and foremost, you have to understand what github, webstorm and Git is. 
+Alright now that my intro is set, I'll explain what github, webstorm and Git is. 
 Think of it like a peanut butter sandwitch. You have the bread, the jelly, and the peanut butter.
 They all go together and ironically taste amazing together. Its a simple analogy but it works exactly the same.
 
