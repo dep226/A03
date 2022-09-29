@@ -34,19 +34,19 @@ Github. This wraps up part One for Creating a tutorial using Git, Github, and We
 
 Part 2
 
-- Branch: the git branch command lets you create, list, rename, and delete branches.
+- ****Branch: the git branch command lets you create, list, rename, and delete branches.
 
-- Clone: git clone is primarily used to point an existing repo and make a clone or copy of that repo in a new directory, at another location.
+- ****Clone: git clone is primarily used to point an existing repo and make a clone or copy of that repo in a new directory, at another location.
 
-- Commit: commits is an operation which sends the latest changes of the source code to the repository.
+- ****Commit: commits is an operation which sends the latest changes of the source code to the repository.
 
-- Fetch: Fetch is a primary command used to download contents from a remote repository. Its used in conjuction with git remote, git branch, git checkout, git reset to update a local repository to the state of a remote.
+- ****Fetch: Fetch is a primary command used to download contents from a remote repository. Its used in conjuction with git remote, git branch, git checkout, git reset to update a local repository to the state of a remote.
 
-- GIT: Git is a version control system used for tracking changes in computer files.
+- ****GIT: Git is a version control system used for tracking changes in computer files.
 
-- Github: Github is an internet hosting service for software development and version control using Git.
+- ****Github: Github is an internet hosting service for software development and version control using Git.
 
-- Merge: merging is Git's way of putting a forked history back together again.
+- ****Merge: merging is Git's way of putting a forked history back together again.
 
 - Merge Conflict: merge conflict is an event that takes place when Git is unable to automatically resolve differences in code between two commits.
 
