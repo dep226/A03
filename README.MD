@@ -34,29 +34,29 @@ Github. This wraps up part One for Creating a tutorial using Git, Github, and We
 
 Part 2
 
-- ****Branch: the git branch command lets you create, list, rename, and delete branches.
+- __branch__: the git branch command lets you create, list, rename, and delete branches*
 
-- ****Clone: git clone is primarily used to point an existing repo and make a clone or copy of that repo in a new directory, at another location.
+- __Clone__: git clone is primarily used to point an existing repo and make a clone or copy of that repo in a new directory, at another location.
 
-- ****Commit: commits is an operation which sends the latest changes of the source code to the repository.
+- __Commit__: commits is an operation which sends the latest changes of the source code to the repository.
 
-- ****Fetch: Fetch is a primary command used to download contents from a remote repository. Its used in conjuction with git remote, git branch, git checkout, git reset to update a local repository to the state of a remote.
+- __Fetch__: Fetch is a primary command used to download contents from a remote repository. Its used in conjuction with git remote, git branch, git checkout, git reset to update a local repository to the state of a remote.
 
-- ****GIT: Git is a version control system used for tracking changes in computer files.
+- __GIT__: Git is a version control system used for tracking changes in computer files.
 
-- ****Github: Github is an internet hosting service for software development and version control using Git.
+- __Github__: Github is an internet hosting service for software development and version control using Git.
 
-- ****Merge: merging is Git's way of putting a forked history back together again.
+- __Merge__: merging is Git's way of putting a forked history back together again.
 
-- Merge Conflict: merge conflict is an event that takes place when Git is unable to automatically resolve differences in code between two commits.
+- __Merge Conflict__: merge conflict is an event that takes place when Git is unable to automatically resolve differences in code between two commits.
 
-- Push: the git push command is used to upload local repository content to a remote repository.
+- __Push__: the git push command is used to upload local repository content to a remote repository.
 
-- Pull: the git pull command is used to fetch and download content from a remote repository and immediately update the local repostiory to match that content.
+- __Pull__: the git pull command is used to fetch and download content from a remote repository and immediately update the local repostiory to match that content.
 
-- Remote: the git remote command lets you create, view, and delete connections to other repositories.
+- __Remote__: the git remote command lets you create, view, and delete connections to other repositories.
 
-- Repository: a git repository tracks and saves the history of all changes made to the files in a Git project.
+- __Repository__: a git repository tracks and saves the history of all changes made to the files in a Git project.
 
 Here are the referenced links of the glosary:
 
